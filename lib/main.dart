@@ -107,7 +107,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Kindacode.com'),
+        title: const Text('HomePage'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(8.0),
